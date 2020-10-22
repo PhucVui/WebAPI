@@ -4,5 +4,6 @@ namespace CG.Domain
 {
     public class Class1
     {
+
     }
 }
